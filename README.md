@@ -28,14 +28,14 @@ Second in the existing scripts property we to need to add predeploy and deploy.
 Now, create a remote GitHub repository with your app name and go back initialize this
 git init
 add it as remote
-git remote add origin git@github.com:Yuribenjamin/my-app.git
+git remote add origin git@github.com:soundarbalaji/todo_kanbanboard.git
 
 5- Now deploy it to GitHub Pages.
 just run the following command :
 
 npm run deploy
 
-6- commit and push your commit to GitHub. Optionally
+6- commit and push your commit to GitHub. (Optional)
 git add .
 git commit -m "Your awesome message"
 git push origin master
