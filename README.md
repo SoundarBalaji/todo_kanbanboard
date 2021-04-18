@@ -4,7 +4,7 @@ just how to connect the new react app to an existing git pages with existing app
 
 Procedure :
 
-1- First create a repository named my-app using create-react-app.
+1- First create a repository named my-app using create-react-app. https://github.com/facebook/create-react-app
 
 npm init react-app todo_kanbanboard
 
